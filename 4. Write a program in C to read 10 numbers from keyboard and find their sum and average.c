@@ -1,4 +1,4 @@
-/*4. Write a program in C to read 10 numbers from keyboard and find their sum and average. Go to the editor
+/*4. Write a program in C to read 10 numbers from keyboard and find their sum and average.
 Test Data :
 Input the 10 numbers :
 Number-1 :2
